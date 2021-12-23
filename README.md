@@ -17,13 +17,14 @@ The Simulink folder contains the Matlab and Simulink files.
 
 ## Video
 External links to the videos
+### Short video overview of the project
 
 [![1min Trailer](Img/mq1.jpg)](https://youtu.be/vIfVS0Zq51c "1min Trailer - Click to Watch!")
 
 ## Flight data
 The Flight data folder contains the flight data in a CSV format.
+![Invoice Module](Img/newplot-14.png)
 
-## External links
 
 # Project Overview
 This thesis aims to develop a flying object powered by a ducted fan
